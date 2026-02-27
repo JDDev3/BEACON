@@ -16,7 +16,7 @@ or with:
 ```r
 install.packages("remotes")
 remotes::install_github("JDDev3/BEACON")
-```r
+```
 
 ## Example
 
