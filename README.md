@@ -12,6 +12,11 @@ You can install the development version of BEACON from [GitHub](https://github.c
 # install.packages("pak")
 pak::pak("JDDev3/BEACON")
 ```
+or with: 
+```r
+install.packages("remotes")
+remotes::install_github("JDDev3/BEACON")
+```r
 
 ## Example
 
